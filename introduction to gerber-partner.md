@@ -18,3 +18,9 @@ We support and empower companies to achieve their goals by inspiring their emplo
 - Respect & appreciation
 - Practical relevance - from knowledge to doing
 - Relationships with the heart and mind
+
+# OUR DEALS
+- LEADERSHIP DEVELOPMENT
+- SALES TRAINING
+- CONSULTING
+- BUSINESS COACHING
