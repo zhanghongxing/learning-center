@@ -14,7 +14,7 @@ We want to be a valuable partner for the holistic and sustainable development of
 We support and empower companies to achieve their goals by inspiring their employees to think and act in an entrepreneurial and goal-oriented manner.
 
 # VALUES
-## Commitment & consistency
-## Respect & appreciation
-## Practical relevance - from knowledge to doing
-## Relationships with the heart and mind
+- Commitment & consistency
+- Respect & appreciation
+- Practical relevance - from knowledge to doing
+- Relationships with the heart and mind
